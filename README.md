@@ -1,9 +1,10 @@
-# Week 4 - Image De-Colorizer Studio
+# Image De-Colorizer Studio
 
 This project contains two Python scripts that convert color images into printable black-and-white coloring book pages. One script runs from the command line, and the other provides a real-time web interface using Streamlit.
 
 ## Folder Structure
 
+```
 DE_COLORIZER/
  ─ input_images/    # Folder for input images
  ─ output_images/   # Folder where processed images will be saved
@@ -12,6 +13,7 @@ DE_COLORIZER/
    ─ streamlit_de_colorizer.py
  ─ requirements.txt      # List of Python packages used
  ─ README.md             # This documentation file
+ ```
 
 ## Scripts
 
